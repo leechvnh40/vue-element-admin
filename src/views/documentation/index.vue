@@ -44,7 +44,7 @@ export default {
     flex-shrink: 0;
     display: block;
     cursor: pointer;
-    background: black;
+    background: pink;
     color: white;
     height: 60px;
     padding: 0 16px;
